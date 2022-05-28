@@ -71,28 +71,28 @@ async def play(ctx, * url):
 #Bot_Interaction-----------------------------------------------------------------------------------------------------------------------------------------------
 
 @bot.command()
-async def baowink(ctx):
-    baowink = ["https://tenor.com/view/bao-ch-vtuber-whale-vtuber-wink-bao-gif-19044974"]
+async def bugcatweary(ctx):
+    baowink = ["https://giphy.com/gifs/cat-capoo-bugcat-3o7bufrhglm1BTsfra"]
     await ctx.channel.send(random.choice(baowink))
 
 @bot.command
-async def baoblush(ctx):
-	baoblush = ["https://tenor.com/view/bao-ch-whale-vtuber-blush-vtuber-bao-gif-19044975"]
+async def bugcatflip(ctx):
+	baoblush = ["https://giphy.com/gifs/meme-capoo-bugcat-JsVlBMEaHdOEGQKLXB"]
 	await ctx.channel.send(random.choice(baoblush))
 
 @bot.command()
-async def baodance(ctx):
-	baodance = ["https://cdna.artstation.com/p/assets/images/images/038/802/010/original/tsu-drawing-animation-bao-halltaker-dance-pixel-minimalist-gif.gif?1624102562"]
+async def bugcatwiggle(ctx):
+	baodance = ["https://giphy.com/gifs/capoo-cat-3ov9jZ0V6gOO0oa98Y"]
 	await ctx.channel.send(random.choice(baodance))
 
 @bot.command()
-async def baopocky(ctx):
-	baopocky = ["https://cdn.donmai.us/sample/19/94/__bao_and_yuniiho_indie_virtual_youtuber_drawn_by_yuniiho__sample-1994c5c19a9fecde2c329640e60aa17a.jpg"]
+async def bugcatshy(ctx):
+	baopocky = ["https://giphy.com/gifs/capoo-3o7aCYnXnYF5T5sxlm"]
 	await ctx.channel.send(random.choice(baopocky))
 
 @bot.command()
-async def baokiss(ctx):
-	baokiss = ["https://pbs.twimg.com/media/ElWCXoaW0AEWuhQ?format=jpg&name=large"]
+async def bugcatboo(ctx):
+	baokiss = ["https://giphy.com/gifs/capoo-halloween-3ov9k0OmfNYeLdK4gg"]
 	await ctx.channel.send(random.choice(baokiss))
 
 
